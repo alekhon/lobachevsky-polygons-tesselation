@@ -1,2 +1,2 @@
 # lobachevsky-polygons-tesselation
-Программа на python, которая получает на вход числа P и Q, а также число слоев, и строит изображение замощения плоскости Лобачевского в модели Пуанкаре в круге правильными P-угольниками c углами 2π/Q с указанным количеством слоев
+This is my school course project. The program gets two parameters of right polygon in Lobachevsky's plane: number of sides (P) and ratio in which angle of polygon divides 2π (Q = 2π/(angle)). The task is to build N layers of tesselation of the Lobachevsky's plane with this polygon (N is the third given number). Moreover, program must built every polygon in tesseation exactly 1 time (no more). The algorhytm of building tesselation is described in detail in Lobachevsky_tesselation.pdf
